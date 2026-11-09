@@ -100,16 +100,15 @@ Retail-Sales-EDA-Python/
 ## 📊 Key Visualisations
 
 ### Executive Dashboard
-![Executive Dashboard](images/00_executive_dashboard.png)
-
+![Executive Dashboard](Retail-Sales-Analysis-by-Python/images/00_executive_dashboard.png)
 ### Regional Performance
-![Regional Analysis](images/02_regional_analysis.png)
+![Regional Analysis](Retail-Sales-Analysis-by-Python/images/02_regional_analysis.png)
 
 ### Discount Impact & Profit Leakage
-![Discount Analysis](images/05_discount_analysis.png)
+![Discount Analysis](Retail-Sales-Analysis-by-Python/images/05_discount_analysis.png)
 
 ### Monthly Revenue Trend
-![Time Series](images/06_time_series.png)
+![Time Series](Retail-Sales-Analysis-by-Python/images/06_time_series.png)
 
 ---
 
